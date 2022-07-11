@@ -2,4 +2,4 @@ __pycache__/
 logs/
 plugins/
 *.env
-git rm --cached *.python-version
+.python-version
